@@ -44,3 +44,10 @@ This item passes the value assigned during assembly in the item above. Further w
 This is a form for submitting a build request. All data is sent to the database, in a separate table, where data from the fields name, phone number and letter are combined by means of a many to many relationship through the mediator table.
 
 <img width="1280" alt="7" src="https://github.com/n-gheorghiev/PC-maker/assets/126828425/87aa1156-3df0-4062-9795-4b19efcfb227">
+
+## Database schema
+
+![database](https://github.com/n-gheorghiev/PC-maker/assets/126828425/2180cae4-061f-4f7f-bec6-c992329ac956)
+
+## Contributing
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
