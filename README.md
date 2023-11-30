@@ -1,4 +1,4 @@
-<img width="2960" alt="image" src="https://github.com/n-gheorghiev/PC-maker/assets/126828425/972ad822-18ee-452d-8e0f-4541de0caba7"><img width="298" alt="image" src="https://github.com/n-gheorghiev/PC-maker/assets/126828425/3889ffda-db1c-4706-887e-a12299a0d3f3"># PC-maker
+# PC-maker
 Site of the company for pc assembly, where the site presents an opportunity to order a computer from parts selected by you, but presented in the company's warehouse.
 
 ## How does it work?
